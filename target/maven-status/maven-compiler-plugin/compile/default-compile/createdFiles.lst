@@ -1,0 +1,6 @@
+com\messaging\app\storage\UserStorage.class
+com\messaging\app\configuration\WebsocketConfiguration.class
+com\messaging\app\controller\UsersController.class
+com\messaging\app\controller\MessageController.class
+com\messaging\app\WebSocketProjectApplication.class
+com\messaging\app\model\MessageModel.class
